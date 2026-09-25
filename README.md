@@ -1,6 +1,20 @@
-# Ana Gabrielle Kataoka
+# 🪼​ Ana Kataoka 
 
----
++ 24 anos
++ Graduação em Ciência da Computação (UniFil - Centro Universitário Filadélfia)
++ Cursando Especialização em Tecnologia Java (UTFPR - Universidade Tecnológica Federal do Paraná)
+
+  
+</br>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/ana-kataoka-9370601a4/">
+        <img alt="linkedin" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+    </a>
+</p>
+
+
+--- 
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -81,10 +95,18 @@
 <br/>
 
 ---
-
 ### 📊 Estatísticas
 
+[![Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=AnaGabK&layout=donut&theme=material-palenight)](https://github.com/stats-organization/github-stats-extended)
 
+<br/>
 
-
-
+---
+### 📈 Contribuições
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaGabK/AnaGabK/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaGabK/AnaGabK/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AnaGabK/AnaGabK/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
